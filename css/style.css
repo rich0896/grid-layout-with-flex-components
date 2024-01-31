@@ -34,6 +34,10 @@ body {
     border-radius: 8px;
     width: 92%;
 }
+
+.emoji p {
+    flex-grow: 1;
+}
   
 .icon {
     font-size: 4rem;
